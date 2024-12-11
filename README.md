@@ -1,2 +1,2 @@
 # 101_Darts
-This is a research on optimization strategy of fitness activities for the elderly based on Sun Tzu's Art of War -- taking darts as an example. We study how to help older people enhance their fitness experience and gain health and happiness. By modeling and analyzing the process of throwing darts, we provide suitable throwing programs for the elderly according to their throwing habits and physical qualities with the support of a large number of effective data
+This is a research on optimization strategy of fitness activities for the elderly.
